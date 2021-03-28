@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Soda
+  - Food
+  - Exit
+  - Enemy
+  - GameMenager
+  - TeamManager
+  - TeamMenager
+  - LevelCount
+  - InstPanel
+  - SkillsPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4184864661
+    locked: 0
+  - name: Items
+    uniqueID: 191246307
+    locked: 0
+  - name: Highlights
+    uniqueID: 407658989
+    locked: 0
+  - name: Pawns
+    uniqueID: 4099578423
+    locked: 0
+  - name: InBattleUI
+    uniqueID: 589858337
+    locked: 0
